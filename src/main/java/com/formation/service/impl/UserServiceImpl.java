@@ -30,7 +30,7 @@ public class UserServiceImpl implements UserService {
     public void save(User user) {
         checkArgument(user != null);
 
-        //userDAO.save(user);
+        userDAO.save(user);
     }
 
     @Override

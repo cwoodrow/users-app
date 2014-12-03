@@ -154,7 +154,7 @@
       <file leaf-file-name="UserServiceImpl.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="29" selection-start="871" selection-end="871" vertical-scroll-proportion="0.561086" vertical-offset="250" max-vertical-offset="748">
+            <state line="32" column="8" selection-start="850" selection-end="850" vertical-scroll-proportion="0.561086" vertical-offset="250" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -914,12 +914,12 @@
       <workItem from="1414080856595" duration="19844000" />
       <workItem from="1414136517786" duration="5369000" />
       <workItem from="1415041072691" duration="3004000" />
-      <workItem from="1417507769153" duration="21323000" />
+      <workItem from="1417507769153" duration="21443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69791000" />
+    <option name="totallyTimeSpent" value="69911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1040" height="784" extended-state="6" />
@@ -1314,7 +1314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="29" selection-start="871" selection-end="871" vertical-scroll-proportion="0.561086" vertical-offset="250" max-vertical-offset="748">
+        <state line="32" column="8" selection-start="850" selection-end="850" vertical-scroll-proportion="0.561086" vertical-offset="250" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
