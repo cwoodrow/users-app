@@ -12,24 +12,24 @@
                     <ul>
                         <li th:each="err : ${#fields.detailedErrors()}" >
                             <b><span th:text="${err.fieldName}"/></b> : <span th:text="${err.message}"/>
-                            Input is incorrect</li>
+                            Saisie Incorrecte</li>
                     </ul>
                 </div>
 
                 <input type="hidden" th:field="*{id}" />
                 <div class="form-group" th:classappend="${#fields.hasErrors('firstName')}? 'has-error'">
-                    <label for="firstName">First Name</label>
-                    <input th:field="*{firstName}" type="text" id="firstName" class="form-control" placeholder="First Name"/>
+                    <label for="firstName">Pr&eacute;nom</label>
+                    <input th:field="*{firstName}" type="text" id="firstName" class="form-control" placeholder="Pr&eacute;nom"/>
                 </div>
                 <div class="form-group" th:classappend="${#fields.hasErrors('lastName')}? 'has-error'">
-                    <label for="lastName">Last Name</label>
-                    <input th:field="*{lastName}" type="text" id="lastName" class="form-control" placeholder="Last Name"/>
+                    <label for="lastName">Nom</label>
+                    <input th:field="*{lastName}" type="text" id="lastName" class="form-control" placeholder="Nom"/>
                 </div>
                 <div class="form-group" th:classappend="${#fields.hasErrors('status')}? 'has-error'">
-                    <label for="status">Status</label>
-                    <input th:field="*{status}" type="text" id="status" class="form-control" placeholder="Status"/>
+                    <label for="status">Statut</label>
+                    <input th:field="*{status}" type="text" id="status" class="form-control" placeholder="Statut"/>
                 </div>
-                <button type="submit" class="btn btn-default">Submit</button>
+                <button type="submit" class="btn btn-default">Cr&eacute;er</button>
                 <button type="reset" class="btn btn-default">Reset</button>
 
             </form>

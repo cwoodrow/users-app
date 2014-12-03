@@ -1,36 +1,36 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
       xmlns:th="http://www.thymeleaf.org">
-    <head th:include="fragments/header :: header" />
+<head th:include="fragments/header :: header"/>
 
-    <body>
-        <div th:replace="fragments/header :: menu"/>
-        <div class="container">
-            <table class="display" id="users" style="display:none">
-                <thead>
-                <tr>
-                    <th>First Name</th>
-                    <th>Last Name</th>
-                    <th>Status</th>
-                    <th></th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr th:each="user : ${users}">
-                    <td th:text="${user.firstName}"></td>
-                    <td th:text="${user.lastName}"></td>
-                    <td th:text="${user.status}"></td>
-                    <td>
-                        <a th:href="@{/user/update/}+${user.id}" role="button" class="btn btn-success btn-xs">Edit</a>
-                        <a th:href="@{/user/delete/}+${user.id}" role="button" class="btn btn-danger btn-xs">Delete</a>
-                    </td>
+<body>
+<div th:replace="fragments/header :: menu"/>
+<div class="container">
+    <table class="display" id="users" style="display:none">
+        <thead>
+        <tr>
+            <th>Pr&eacute;nom</th>
+            <th>Nom</th>
+            <th>Statut</th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="user : ${users}">
+            <td th:text="${user.firstName}"></td>
+            <td th:text="${user.lastName}"></td>
+            <td th:text="${user.status}"></td>
+            <td>
+                <a th:href="@{/user/update/}+${user.id}" role="button" class="btn btn-success btn-xs">Modifier</a>
+                <a th:href="@{/user/delete/}+${user.id}" role="button" class="btn btn-danger btn-xs">Supprimer</a>
+            </td>
 
-                </tr>
-                </tbody>
-            </table>
-        </div>
+        </tr>
+        </tbody>
+    </table>
+</div>
 
-        <div th:replace="fragments/header :: footer"></div>
-        <script type="text/javascript" src="/js/user/list.js"/>
-    </body>
+<div th:replace="fragments/header :: footer"></div>
+<script type="text/javascript" src="/js/user/list.js"/>
+</body>
 </html>

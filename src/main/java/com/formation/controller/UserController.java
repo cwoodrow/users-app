@@ -12,7 +12,6 @@ import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -22,8 +21,8 @@ import java.util.List;
 @RequestMapping("user")
 @Controller
 public class UserController {
-    public static final String USERS_LIST = "/user/list";
-    public static final String USERS_FORM = "/user/form";
+    public static final String USERS_LIST = "user/list";
+    public static final String USERS_FORM = "user/form";
 
     private final Logger logger = LoggerFactory.getLogger(UserController.class);
 
@@ -55,7 +54,7 @@ public class UserController {
         }
         logger.info("createUser");
 
-        userService.saveUser(user);
+        userService.save(user);
         return redirectToUserList();
     }
 
@@ -75,10 +74,8 @@ public class UserController {
     public String delete(@PathVariable Long userId){
         logger.info("delete");
 
-        User user = userService.getUser(userId);
-        if(user == null){
-            return redirectToUserList();
-        }
+        userService.getUser(userId);
+
         return redirectToUserList();
     }
 
@@ -89,7 +86,7 @@ public class UserController {
     }
 
     private String redirectToUserList() {
-        return "redirect:" + USERS_LIST;
+        return "redirect:/" + USERS_LIST;
     }
 
 }

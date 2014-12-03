@@ -64,37 +64,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="list.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/list.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="127" selection-end="127" vertical-scroll-proportion="-42.5" vertical-offset="0" max-vertical-offset="187">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="UserController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="25" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="1479">
+            <state line="49" column="48" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1666">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="53" selection-start="1586" selection-end="1586" vertical-scroll-proportion="-8.5" vertical-offset="255" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Override.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/lang/Override.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="423" selection-end="423" vertical-scroll-proportion="0.23578364" vertical-offset="0" max-vertical-offset="1207">
+            <state line="50" column="18" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="595">
+              <folding>
+                <element signature="e#0#984#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/ApplicationController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="2" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserStatus.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/UserStatus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="12" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/Application.java">
+      <file leaf-file-name="list.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="4" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding>
+                <marker date="1417563024706" expanded="true" signature="60:179" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImplTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/formation/service/impl/UserServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="0" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.73417723" vertical-offset="1264" max-vertical-offset="1598">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="34" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="748">
               <folding />
             </state>
           </provider>
@@ -120,24 +184,26 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/template.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/users/list.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/formation/model/UserStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/users/list.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/css/users-app.css" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/users/form.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/formation/controller/ApplicationController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/user/form.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/formation/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/formation/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/formation/service/UserService.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/data.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/user/form.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/formation/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/formation/model/User.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/user/list.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/formation/model/UserStatus.java" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/user/list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/formation/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/formation/controller/UserController.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/formation/service/impl/UserServiceImplTest.java" />
       </list>
     </option>
   </component>
@@ -149,10 +215,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1598" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -229,8 +295,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,15 +302,9 @@
               <option name="myItemId" value="users-app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -256,59 +314,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="formation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,7 +335,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
@@ -342,9 +354,13 @@
       <recent name="com.formation" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Git\users-app\src\main\resources\templates" />
       <recent name="C:\Git\users-app\src\main\resources" />
       <recent name="C:\Git\users-app\src\main\resources\templates\users" />
-      <recent name="C:\Git\users-app\src\main\resources\templates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.formation.service.impl" />
+      <recent name="templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Git\users-app\src\main\resources\static\" />
@@ -353,12 +369,8 @@
       <recent name="C:\Git\users-app\src\main\resources\templates\fragements" />
       <recent name="C:\Git\users-app\src\main\webapp\WEB-INF\views" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.formation.service.impl" />
-      <recent name="templates" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="JUnit.UserServiceImplTest">
     <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -382,8 +394,132 @@
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.formation.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="users-app" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.formation.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.service.impl.UserServiceImplTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserServiceImplTest.shouldCallDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.formation.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="users-app" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.formation.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.service.impl.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="shouldCallDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserServiceImplTest.shouldFindAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.formation.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="users-app" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.formation.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.service.impl.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="shouldFindAllUsers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserServiceImplTest.shouldThrowExceptionWhenSaveNullUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.formation.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="users-app" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.formation.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.formation.service.impl.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="shouldThrowExceptionWhenSaveNullUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -628,12 +764,20 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldCallDelete" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldFindAllUsers" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldThrowExceptionWhenSaveNullUser" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Application" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldThrowExceptionWhenSaveNullUser" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldFindAllUsers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Application" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UserServiceImplTest.shouldCallDelete" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -672,15 +816,17 @@
       <workItem from="1414019079989" duration="15126000" />
       <workItem from="1414064998652" duration="2991000" />
       <workItem from="1414080856595" duration="19844000" />
-      <workItem from="1414136517786" duration="1434000" />
+      <workItem from="1414136517786" duration="5369000" />
+      <workItem from="1415041072691" duration="3004000" />
+      <workItem from="1417507769153" duration="20353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41529000" />
+    <option name="totallyTimeSpent" value="68821000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1" y="1" width="1598" height="858" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -691,24 +837,24 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892906" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34672022" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967907" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24967907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42034805" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2551948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5020576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -733,46 +879,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="90" selection-end="90" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/ApplicationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="24" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="142" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289">
-          <folding>
-            <marker date="1414095377967" expanded="true" signature="-1:-1" placeholder="insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="29" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="374">
@@ -796,16 +902,12 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="23" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0" vertical-offset="749" max-vertical-offset="6290">
-          <folding />
-        </state>
+        <state line="52" column="23" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.0" vertical-offset="749" max-vertical-offset="6290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/users-app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -830,9 +932,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="12" selection-start="472" selection-end="472" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="782">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -900,11 +1000,6 @@
         <state line="4" column="8" selection-start="127" selection-end="144" vertical-scroll-proportion="-2.04" vertical-offset="0" max-vertical-offset="238" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/dao/UserDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="272" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.7.RELEASE/spring-context-4.0.7.RELEASE.jar!/org/springframework/stereotype/Service.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="18" selection-start="401" selection-end="401" vertical-scroll-proportion="0.38607594" vertical-offset="92" max-vertical-offset="289" />
@@ -912,9 +1007,7 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="744" column="6" selection-start="36661" selection-end="36661" vertical-scroll-proportion="0.46829268" vertical-offset="12456" max-vertical-offset="37961">
-          <folding />
-        </state>
+        <state line="744" column="6" selection-start="36661" selection-end="36661" vertical-scroll-proportion="0.46829268" vertical-offset="12456" max-vertical-offset="37961" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/phrase.rnc">
@@ -922,44 +1015,14 @@
         <state line="9" column="20" selection-start="330" selection-end="330" vertical-scroll-proportion="0.30260047" vertical-offset="25" max-vertical-offset="6902" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/UserStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="109" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="46" selection-start="930" selection-end="930" vertical-scroll-proportion="0.25073746" vertical-offset="0" max-vertical-offset="678">
-          <folding>
-            <marker date="1414095377967" expanded="true" signature="-1:-1" placeholder="insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="23" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.19203414" vertical-offset="749" max-vertical-offset="6290">
-          <folding />
-        </state>
+        <state line="52" column="23" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.19203414" vertical-offset="749" max-vertical-offset="6290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/users-app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.024182077" vertical-offset="0" max-vertical-offset="703">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="34" selection-end="62" vertical-scroll-proportion="0.024182077" vertical-offset="0" max-vertical-offset="703">
-          <folding />
-        </state>
+        <state line="1" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.024182077" vertical-offset="0" max-vertical-offset="703" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/web-forms2.rnc">
@@ -967,37 +1030,9 @@
         <state line="632" column="23" selection-start="14253" selection-end="14253" vertical-scroll-proportion="0.33333334" vertical-offset="10610" max-vertical-offset="13838" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1920" selection-end="1920" vertical-scroll-proportion="-7.923077" vertical-offset="474" max-vertical-offset="901" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.7.RELEASE/spring-web-4.0.7.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="29" selection-start="2403" selection-end="2403" vertical-scroll-proportion="0.55494505" vertical-offset="342" max-vertical-offset="731" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.54477614" vertical-offset="172" max-vertical-offset="850">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/ApplicationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="28" selection-start="292" selection-end="292" vertical-scroll-proportion="0.26600283" vertical-offset="0" max-vertical-offset="703">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="29" selection-start="202" selection-end="202" vertical-scroll-proportion="0.24182077" vertical-offset="0" max-vertical-offset="703">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/web-forms.rnc">
@@ -1005,57 +1040,188 @@
         <state line="257" column="16" selection-start="5727" selection-end="5727" vertical-scroll-proportion="0.33333334" vertical-offset="4235" max-vertical-offset="10132" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="33" selection-start="553" selection-end="553" vertical-scroll-proportion="0.41963017" vertical-offset="62" max-vertical-offset="765">
+        <state line="168" column="17" selection-start="7581" selection-end="7581" vertical-scroll-proportion="0.8113731" vertical-offset="2271" max-vertical-offset="2992">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/form.html">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.8.4.RELEASE/spring-data-commons-1.8.4.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="56" selection-start="811" selection-end="811" vertical-scroll-proportion="0.047222223" vertical-offset="289" max-vertical-offset="799" />
+        <state line="7" column="59" selection-start="278" selection-end="278" vertical-scroll-proportion="0.17097701" vertical-offset="0" max-vertical-offset="696">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/list.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/dao/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="24" selection-start="822" selection-end="822" vertical-scroll-proportion="0.51134646" vertical-offset="36" max-vertical-offset="697">
+        <state line="10" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.21220528" vertical-offset="0" max-vertical-offset="721">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/1.1.8.RELEASE/spring-boot-maven-plugin-1.1.8.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7943925" vertical-offset="255" max-vertical-offset="3400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="447" selection-end="447" vertical-scroll-proportion="-1.7" vertical-offset="0" max-vertical-offset="187">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="233" column="0" selection-start="4570" selection-end="4570" vertical-scroll-proportion="0.25623584" vertical-offset="3848" max-vertical-offset="4335">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="188" selection-end="188" vertical-scroll-proportion="0.14509246" vertical-offset="0" max-vertical-offset="703">
+        <state line="12" column="3" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/fragments/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="109" selection-start="2034" selection-end="2034" vertical-scroll-proportion="-20.923077" vertical-offset="153" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="53" selection-start="1586" selection-end="1586" vertical-scroll-proportion="-8.5" vertical-offset="255" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/user/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="7" selection-start="1099" selection-end="1099" vertical-scroll-proportion="-14.0" vertical-offset="231" max-vertical-offset="697">
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="127" selection-end="127" vertical-scroll-proportion="-42.5" vertical-offset="0" max-vertical-offset="187">
+        <state line="7" column="4" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding>
+            <marker date="1417563024706" expanded="true" signature="60:179" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="18" selection-start="971" selection-end="971" vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="595">
+          <folding>
+            <element signature="e#0#984#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="21" selection-start="994" selection-end="994" vertical-scroll-proportion="0.0" vertical-offset="70" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/model/UserStatus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="25" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="1479">
+        <state line="5" column="12" selection-start="83" selection-end="83" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="16" selection-start="216" selection-end="216" vertical-scroll-proportion="0.49101797" vertical-offset="40" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="510" selection-end="510" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <folding />
+        <state line="14" column="5" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="374">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="48" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1666">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="423" selection-end="423" vertical-scroll-proportion="0.23578364" vertical-offset="0" max-vertical-offset="1207">
+        <state line="88" column="27" selection-start="3238" selection-end="3238" vertical-scroll-proportion="0.0" vertical-offset="1286" max-vertical-offset="1666">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/controller/ApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/formation/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="34" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0" vertical-offset="295" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/formation/service/impl/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="2156" selection-end="2156" vertical-scroll-proportion="0.73417723" vertical-offset="1264" max-vertical-offset="1598">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1137,7 +1303,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: org.springframework:springloaded:1.2.1.RELEASE</last-edited>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

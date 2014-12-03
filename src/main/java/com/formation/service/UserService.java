@@ -8,7 +8,7 @@ import com.formation.model.User;
 public interface UserService {
     Iterable<User> getAllUsers();
 
-    void saveUser(User user);
+    void save(User user);
 
     User getUser(Long userId);
 
